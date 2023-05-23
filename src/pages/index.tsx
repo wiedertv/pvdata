@@ -86,7 +86,7 @@ export default function Home() {
 
         <div className={styles.grid}>
           <a
-            href="#"
+            href="https://testnet.bscscan.com/address/0x358d019b5E370bfe69FB452a7A6773ec77540edC"
             className={styles.card}
             target="_blank"
             rel="noopener noreferrer"
@@ -94,13 +94,10 @@ export default function Home() {
             <h2>
               BAUL <span>-&gt;</span>
             </h2>
-            <p>
-
-            </p>
           </a>
 
           <a
-              href="#"
+              href="https://testnet.bscscan.com/address/0xBa84f596Dc68EE3c64CD7c037469E82aa1779C3c"
               className={styles.card}
               target="_blank"
               rel="noopener noreferrer"
@@ -111,7 +108,7 @@ export default function Home() {
           </a>
 
           <a
-              href="#"
+              href="https://plusvalica.qapp.info/?sponsor=plusvalica"
               className={styles.card}
               target="_blank"
               rel="noopener noreferrer"
@@ -122,7 +119,7 @@ export default function Home() {
           </a>
 
           <a
-              href="#"
+              href="https://creditcommunity.qapp.info/"
               className={styles.card}
               target="_blank"
               rel="noopener noreferrer"
